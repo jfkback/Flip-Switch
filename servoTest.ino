@@ -1,10 +1,10 @@
 #include <Servo.h>
 #include <BlynkSimpleEsp8266.h>
 
-char auth[] = "3d909489101f4308b460254bd21ecaad";
+char auth[] = "";
 
-char ssid[] = "HackUMass";
-char pass[] = "HackUMass2018!";
+char ssid[] = "";
+char pass[] = "!";
 
 Servo myservo;  
 
